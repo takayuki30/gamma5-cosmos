@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "gamma": 5,
+  "predictions": [
+    {
+      "id": "delta_G",
+      "description": "Effective gravitational constant modulation",
+      "value": "ΔG/G ≈ 1e-15",
+      "observable": "LLR, LISA",
+      "testable_by": "2030"
+    },
+    {
+      "id": "bao_shift",
+      "description": "BAO scale at z=0.6 shows +2.3% shift",
+      "value": "+2.3 ± 0.2%",
+      "observable": "DESI DR3",
+      "testable_by": "2026"
+    },
+    {
+      "id": "mars_craters",
+      "description": "Mars crater count is ~10x lower than N-body prediction",
+      "value": "10x deficit",
+      "observable": "MRO imaging",
+      "testable_by": "2025"
+    }
+  ]
+}
